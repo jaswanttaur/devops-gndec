@@ -6,9 +6,11 @@
 ## Course End : 3 August 2023
 ***
 
-**Don't create a mesh in the repo**
-**Do push code only into your folder**
-**Anyone want edit something just do it.**
+1.**Don't create a mesh in the repo**
+
+2.**Do push code only into your folder**
+
+3.**Anyone want edit something just do it.**
 
 
 
