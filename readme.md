@@ -1,4 +1,4 @@
-# Devops for Developer                                        by Jaswant Taur 
+# Devops for Developer                             by Jaswant Taur 
 # Institution : Guru Nanak Dev Engineering College
 
 ## Course Date : 3 july 2023
